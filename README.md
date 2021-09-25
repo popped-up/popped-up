@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @popped-up
+- 👀 I’m interested in coding, IT learning, working with data, programs and much more!
+- 🌱 I’m currently learning C++ programming language
+- 💞️ I’m looking to collaborate on my first IT projects here or on other platforms for coders' community
+- 📫 How to reach me: check my bio or DM me for my social links you'd like to use for chatting with me
